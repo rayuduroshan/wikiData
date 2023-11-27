@@ -1,2 +1,2 @@
 # wikiData
-wikiDataset
+wikiDataset from SNAP repository
